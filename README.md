@@ -1,7 +1,7 @@
 OLP
 ===
 
-OLP is the JSON log parser.
+OLP is a JSON log parser.
 
 Concept
 ---
@@ -18,4 +18,4 @@ Aggregate of about one billion a log of the KB number.
 Fault
 ---
 
-true, false and null of JSON is indistinguishable fron that of the string. But, rarely include true, false and null in the log.
+true, false and null of JSON is indistinguishable from that of the string. But, rarely include true, false and null in the log.
